@@ -8,5 +8,5 @@ sound-to-midi:
 https://github.com/tiagoft/audio_to_midi/tree/master
 
 basic-pitch:
-https://github.com/spotify/basic-pitch
+https://github.com/spotify/basic-pitch and 
 https://basicpitch.spotify.com/
